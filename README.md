@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Distributed Dataset Statistics using MPI
 
 
@@ -236,3 +237,6 @@ The 100,000-value measurements contain one trial per process count; the larger d
 
 &#x20;Aditya P       129   01FE24BCI059
 
+=======
+# lab-evaluation-mpi-statistics
+>>>>>>> f9430d2cbcfd003c6dbe47dfb2609727e7909f34
